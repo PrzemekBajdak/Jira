@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SKLEPTEST-14] Nie wyświetla się zdjęcie produktu</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://przemekbajdak.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://przemekbajdak.atlassian.net/browse/SKLEPTEST-2">Strona główna</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://przemekbajdak.atlassian.net/browse/SKLEPTEST-2">SKLEPTEST-2</a>)</span>
+                <h3 class="formtitle"><img src="https://przemekbajdak.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [SKLEPTEST-14]&nbsp;<a href="https://przemekbajdak.atlassian.net/browse/SKLEPTEST-14">Nie wyświetla się zdjęcie produktu</a>
+            <span class="subText">
+               Utworzono: 31/mar/24                   &nbsp;Zaktualizowano: 31/mar/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://przemekbajdak.atlassian.net/secure/BrowseProject.jspa?id=10008">SklepTest</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Ma wpływ na wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersje do poprawienia:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Nadrzędny:</b></td>
+        <td width="80%"><a href="https://przemekbajdak.atlassian.net/browse/SKLEPTEST-2">Strona główna</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Błąd w programie
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:61ffbb9d-a42c-4ba1-8674-3dc8e934df45"
+                id="word_reporter_712020:61ffbb9d-a42c-4ba1-8674-3dc8e934df45"
+                href="https://przemekbajdak.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A61ffbb9d-a42c-4ba1-8674-3dc8e934df45">
+                    Przemysław Bajdak (PB)
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:61ffbb9d-a42c-4ba1-8674-3dc8e934df45"
+                id="word_assignee_712020:61ffbb9d-a42c-4ba1-8674-3dc8e934df45"
+                href="https://przemekbajdak.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A61ffbb9d-a42c-4ba1-8674-3dc8e934df45">
+                    Przemysław Bajdak (PB)
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10075-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Web                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Załączniki:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://przemekbajdak.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Plik PNG">
+                    image-20240331-181952.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10075-value" class="value" bgcolor="#ffffff" width="80%">      0|i000dz:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10075-value" class="value" bgcolor="#ffffff" width="80%">Strona główna</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10075-value" class="value" bgcolor="#ffffff" width="80%">    2
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Opis</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Opis:</b></p>
+
+<p>Po wejściu na główną stronę, przy produkcie “Black Top” nie wyświetla się zdjęcie.</p>
+
+<p><b>Lista kroków do reprodukcji:</b></p>
+
+<ol>
+	<li>Przechodzimy na stronę <a href="https://skleptest.pl/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://skleptest.pl/</a></li>
+	<li>Scrollujemy do pozycji “Black Top”</li>
+</ol>
+
+
+<p><b>Rzeczywisty rezultat:</b></p>
+
+<p>Szare tło bez żadnego zdjęcia ukazujące produkt.</p>
+
+<p><b>Oczekiwane zachowanie:</b></p>
+
+<p>Produkt powinien posiadać zdjęcie, które po najechaniu myszką po przybliża je</p>
+
+<p><b>Załącznik:</b></p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10017" alt="image-20240331-181952.png" height="472" width="1055" style="border: 0px solid black" /></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Wygenerowane (Sun Mar 31 18:39:46 UTC 2024) przez Przemysław Bajdak (PB) z użyciem systemu Jira 1001.0.0-SNAPSHOT#100248-rev:6a03a54452e975225e04dfda06fdac6fd9e95b00.
+
+</body>
+</html>
