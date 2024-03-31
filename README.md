@@ -1,0 +1,2 @@
+# Jira
+ Opisy błędów Jira
